@@ -1,4 +1,4 @@
-# DL_Hb_Decrease
+# predict-hb-decrease
 
 24시간 동안의 Vital sign, bolus 변화에 따른 Hemoglobin 감소 예측 모델 (LSTM, Transformer, Ensemble)  
   
